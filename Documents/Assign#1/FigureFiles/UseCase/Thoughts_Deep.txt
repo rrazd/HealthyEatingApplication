@@ -1,2 +1,0 @@
-<<<<LogIn UseCase>>>>
-- Should log in use case and System Admin use case be in the same use case?

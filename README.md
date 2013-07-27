@@ -1,1 +1,1 @@
-ECE 452 course project
+Healthy Eating Application with social media integration
